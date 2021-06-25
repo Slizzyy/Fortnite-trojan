@@ -2,4 +2,4 @@
 
 ## Harmless!
 
-**Stop it with Alt + F4**
+**Stop it with:   Alt + F4**
